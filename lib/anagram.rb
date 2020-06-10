@@ -2,7 +2,6 @@
 class Anagram 
 
   attr_accessor :array_words
-
   
   def initialize(array_words)
     @array_words = array_words 
